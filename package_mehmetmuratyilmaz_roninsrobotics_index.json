@@ -1,0 +1,47 @@
+{
+	"packages":[
+		{
+			"name": "RoninsAVRBoard",
+			"maintainer": "Mehmet Murat YILMAZ",
+			"websiteURL": "https://roninrobotics.com",
+			"email": "info@roninrobotics.com",
+			"help":{
+				"online": "https://roninrobotics.com/hardware"
+			},
+			"platforms": [
+				{	
+					"name": "KAI AVR Boards",
+					"architecture": "avr",
+					"versiyon": "1.0.0",
+					"category": "Contributed",
+					"help": {
+						"online": "https://roninrobotics.com/hardware"
+					},
+					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/blob/master/kai-1.0.0.zip",
+					"archiveFileName": "kai-1.0.0.zip",
+					"checksum": "SHA-256:FB81C11403E894DC62CC4026964D16E6BE3DBB0FE72BAC7F2FC4F44DAF49BC01",
+					"size": "290816",
+					"boards": [
+						{"name" : "KAI Nano"},
+						{"name" : "KAI Bit"}
+						],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.8.1-arduino5"
+					},
+					{
+						"packager": "arduino",
+						"name" : "avrdude",
+						"version" : "6.0.1-arduino5"
+					}
+			]
+		},
+		"tools": [
+			TOOLS_COMPILER_AVR,
+			TOOLS_UPLOADER_AVR,
+		]
+		}
+	]
+}
