@@ -20,7 +20,7 @@
 					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/tree/master/kai-1.0.0",
 					"archiveFileName": "kai-1.0.0.zip",
 					"checksum": "MD5:ef4787176340328b293da2034d148fa5",
-					"size": "287127",
+					"size": "290816",
 					"boards": [
 						{"name" : "KAI NANO"},
 						{"name" : "KAI bit"}
@@ -49,7 +49,7 @@
 					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/tree/master/kai-1.0.0",
 					"archiveFileName": "kai-1.0.0.zip",
 					"checksum": "MD5:ef4787176340328b293da2034d148fa5",
-					"size": "287127",
+					"size": "290816",
 					"boards": [
 						{"name" : "KAI NANO"},
 						{"name" : "KAI bit"}
