@@ -19,8 +19,8 @@
 					},
 					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/tree/master/kai-1.0.0",
 					"archiveFileName": "kai-1.0.0.zip",
-					"checksum": "SHA-256:59B099420FA9ABD6AED9B7F59A2DDF41D7E601043C6E218D639FBD0ED32F2C17",
-					"size": "287127",
+					"checksum": "SHA-256:59b099420fa9abd6aed9b7f59a2ddf41d7e601043c6e218d639fbd0ed32f2c17",
+					"size": "290816",
 					"boards": [
 						{"name" : "KAI NANO"},
 						{"name" : "KAI bit"}
@@ -48,8 +48,8 @@
 					},
 					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/tree/master/kai-1.0.0",
 					"archiveFileName": "kai-1.0.0.zip",
-					"checksum": "SHA-256:59B099420FA9ABD6AED9B7F59A2DDF41D7E601043C6E218D639FBD0ED32F2C17",
-					"size": "287127",
+					"checksum": "SHA-256:59b099420fa9abd6aed9b7f59a2ddf41d7e601043c6e218d639fbd0ed32f2c17",
+					"size": "290816",
 					"boards": [
 						{"name" : "KAI NANO"},
 						{"name" : "KAI bit"}
