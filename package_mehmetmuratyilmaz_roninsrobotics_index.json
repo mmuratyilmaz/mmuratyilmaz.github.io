@@ -19,8 +19,8 @@
 					},
 					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/raw/master/kai-1.0.1.zip",
 					"archiveFileName": "kai-1.0.1.zip",
-					"checksum": "SHA-256:578B483FA5420354BD3511A5A6D3653A5383F2472BFB63A18C4B6DACE3A21355",
-					"size": "289667",
+					"checksum": "SHA-256:F3167939E0B104F02B32C1686148521AC8C967A51AE75A1219DE7EDF210F138F",
+					"size": "289668",
 					"boards": [
 						{"name" : "KAI NANO"},
 						{"name" : "KAI bit"}
