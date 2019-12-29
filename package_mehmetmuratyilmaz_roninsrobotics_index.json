@@ -37,8 +37,8 @@
 					},
 					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/raw/master/kai-2.1.2.zip",
 					"archiveFileName": "kai-2.1.2.zip",
-					"checksum": "SHA-256:a7b61f99b46b59be253aac5ed775794c57e496295c89f56824759aaebbd61275",
-					"size": "293160",
+					"checksum": "SHA-256:8622437c66b3a9df3307ad3e2abba6cc95b4d85c3f443d7fc3d1b49cdb452c12",
+					"size": "293278",
 					"boards": [
 						{"name" : "KAI NANO"},
 						{"name" : "KAI bit"}
