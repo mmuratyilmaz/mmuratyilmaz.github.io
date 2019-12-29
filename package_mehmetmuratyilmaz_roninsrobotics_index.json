@@ -10,7 +10,7 @@
 			},
 			"platforms": [
 				{	
-					"name": "Ronin's Robotic Board Advanced",
+					"name": "Ronin's Robotic Board",
 					"architecture": "avr",
 					"version": "1.0.0",
 					"category": "Contributed",
@@ -28,7 +28,7 @@
 					"toolsDependencies": [	]
 		},
 		{	
-					"name": "Ronin's Robotic Board",
+					"name": "Ronin's Robotic Board Advanced",
 					"architecture": "avr",
 					"version": "2.1.2",
 					"category": "Contributed",
