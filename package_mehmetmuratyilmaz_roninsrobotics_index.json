@@ -30,15 +30,15 @@
 		{	
 					"name": "Ronin's Robotic Board Advanced",
 					"architecture": "avr",
-					"version": "2.1.2",
+					"version": "2.2.2",
 					"category": "Contributed",
 					"help": {
 						"online": "https://roninrobotics.com/hardware"
 					},
-					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/raw/master/kai-2.1.2.zip",
-					"archiveFileName": "kai-2.1.2.zip",
-					"checksum": "SHA-256:8622437c66b3a9df3307ad3e2abba6cc95b4d85c3f443d7fc3d1b49cdb452c12",
-					"size": "293278",
+					"url": "https://github.com/mmuratyilmaz/Ronin---board-master/raw/master/kai-2.2.2.zip",
+					"archiveFileName": "kai-2.2.2.zip",
+					"checksum": "SHA-256:b099fb2ee87945916306f06457f756a604cb3a9bdef34eac3bd6c7e0d0ad89b9",
+					"size": "293987",
 					"boards": [
 						{"name" : "KAI NANO"},
 						{"name" : "KAI bit"}
