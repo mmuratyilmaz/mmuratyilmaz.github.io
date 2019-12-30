@@ -30,7 +30,7 @@
 		{	
 					"name": "Ronin's Robotic Board",
 					"architecture": "avr",
-					"version": "2.2.2",
+					"version": "2.1.2",
 					"category": "Contributed",
 					"help": {
 						"online": "https://roninrobotics.com/hardware"
